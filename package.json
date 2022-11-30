@@ -1,0 +1,11 @@
+{
+  "name": "image-template-customizer",
+  "version": "1.0.0",
+  "description": "change image color , image union , etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erickgonzalezdev",
+  "license": "ISC"
+}
